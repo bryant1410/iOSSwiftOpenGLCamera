@@ -3,7 +3,7 @@ Notice: This repository stopped working properly after changes were made early o
 🚨🚨🚨
 
 
-#iOSSwiftOpenGLCamera
+# iOSSwiftOpenGLCamera
 
 ![Example](without_shader.gif) ![Example](with_shader.gif)
 
